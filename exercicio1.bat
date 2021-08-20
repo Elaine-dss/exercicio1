@@ -44,3 +44,7 @@ md Londrina
 md Vitoria
 md Confiança	
 md "Brasil de Pelotas"
+cd ..
+cd ..
+cd "Todos os Estados"
+md "Centro-Oeste" "Nordeste" "Norte" "Sul" "Sudeste"
