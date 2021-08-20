@@ -73,3 +73,8 @@ md Para
 md Rondonia
 md Roraima
 md Tocantins
+cd ..
+cd Sul
+md Parana
+md "Santa Catarina"
+md "Rio Grande do Sul"
