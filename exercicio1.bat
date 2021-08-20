@@ -48,3 +48,8 @@ cd ..
 cd ..
 cd "Todos os Estados"
 md "Centro-Oeste" "Nordeste" "Norte" "Sul" "Sudeste"
+cd Centro-Oeste
+md Goias
+md "Mato Grosso"
+md "Mato Grosso do Sul"
+md "Distrito Federal"
